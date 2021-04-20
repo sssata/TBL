@@ -6,3 +6,5 @@ A SCARA arm based human input device for absolute mouse input.
 
 
 ![image](Images/osu1.png)
+
+![image](Images/wiring1.png)
