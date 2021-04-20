@@ -1,2 +1,5 @@
 # TBL
-SCARA based absolute input HID
+
+# Tabletless
+
+A SCARA arm based human input device for absolute mouse input.
